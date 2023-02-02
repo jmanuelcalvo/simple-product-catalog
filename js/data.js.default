@@ -53,38 +53,48 @@ products = [
   // category
   [
     // product
-    { name: "RHEL Virtual Machine",
-      description: "Please select the operating system version",
+    { name: "Suspendisse consectetur",
+      description: "",
       details: "",
-      thumbnail: "vm-rhel.png",
-      images: ["vm-rhel.png"],
+      thumbnail: "grid3.jpg",
+      images: ["show1.jpg"],
       downloads: []
     },
     // product
-    { name: "Windows Virtual Machine",
-      description: "Please select the operating system version",
+    { name: "Pellentesque",
+      description: "",
       details: "",
-      thumbnail: "vm-win.png",
-      images: ["vm-win.png"],
+      thumbnail: "grid6.jpg",
+      images: ["show2.jpg"],
       downloads: []
     },
     // product
-    { name: "Other Virtual Machines",
-      description: "Please select the operating system version",
+    { name: "Pellentesque",
+      description: "",
       details: "",
-      thumbnail: "vm-linux.png",
-      images: ["vm-linux.png"],
+      thumbnail: "grid5.jpg",
+      images: ["show.jpg"],
       downloads: []
     },
     // product
-    { name: "Solaris Virtual Machines",
-      description: "Please select the operating system version",
+    { name: "Pellentesque",
+      description: "",
       details: "",
-      thumbnail: "vm-solaris.png",
-      images: ["vm-solaris.png"],
+      thumbnail: "grid7.jpg",
+      images: ["show.jpg"],
       downloads: []
     }
   ],
 
   // category
+  [
+    // product
+    { name: "Test",
+      description: "",
+      details: "",
+      thumbnail: "grid4.jpg",
+      images: ["show1.jpg"],
+      downloads: []
+    }
+  ],
 ]
