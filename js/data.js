@@ -22,11 +22,11 @@ products = [
       downloads: []
     },
     // product
-    { name: "Test2",
-      description: "",
+    { name: "Odoo as a Service",
+      description: "ERP Odoo as a Service",
       details: "",
       thumbnail: "grid6.jpg",
-      images: ["show.jpg"],
+      images: ["odoo_ready_partners_rgb.png"],
       downloads: []
     }
   ],
