@@ -21,6 +21,15 @@ products = [
       downloads: []
     },
     // product
+    { name: "Automation as a Service",
+      description: "Red Hat Ausible Automation Platfom as a Service",
+      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ultricies lacinia augue, sed tincidunt lorem gravida vitae. Duis pretium lobortis augue, non mattis magna tincidunt in.",
+      thumbnail: "grid5.jpg",
+      //images: ["show.jpg", "show1.jpg", "show2.jpg", "show3.jpg" ],
+      images: ["aap-platform.png" ],
+      downloads: []
+    },
+    // product
     { name: "Odoo as a Service",
       description: "ERP Odoo as a Service",
       details: "",
@@ -30,27 +39,59 @@ products = [
     }
   ],
 
-  // category
+  // Services
   [
     // product
-    { name: "Suspendisse consectetur",
-      description: "",
+    { name: "Database as a Service",
+      description: "Database service as a service",
       details: "",
-      thumbnail: "grid4.jpg",
-      images: ["show.jpg"],
+      thumbnail: "svc-database.png",
+      images: ["svc-database.png"],
       downloads: []
     },
     // product
-    { name: "Pellentesque",
-      description: "",
+    { name: "Virtual Desktop",
+      description: "Virtual Desktop",
       details: "",
-      thumbnail: "grid6.jpg",
-      images: ["show.jpg"],
+      thumbnail: "svc-desktop.png",
+      images: ["svc-desktop.png"],
+      downloads: []
+    },
+    // product
+    { name: "Monitoring as a Service",
+      description: "Monitoring as a service",
+      details: "",
+      thumbnail: "svc-monitor.png",
+      images: ["svc-monitor.png"],
+      downloads: []
+    },
+    // product
+    { name: "AI/ML as a Service",
+      description: "AI/ML as a service",
+      details: "",
+      thumbnail: "svc-ai.png",
+      images: ["svc-ai.png"],
+      downloads: []
+    },
+    // product
+    { name: "Mail Server",
+      description: "MAil Server",
+      details: "",
+      thumbnail: "svc-mail.png",
+      images: ["svc-mail.png"],
+      downloads: []
+    },
+    // product
+    { name: "API Management",
+      description: "API Management",
+      details: "",
+      thumbnail: "svc-api.png",
+      images: ["avc-api.png"],
       downloads: []
     }
   ],
 
-  // category
+  // Virtual Machines
   [
     // product
     { name: "RHEL Virtual Machine",
