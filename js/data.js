@@ -3,10 +3,9 @@
 categoriesShowAdditionalList = [1,2,3];
 
 categories = [
-    { name: "Products", image: "grid4.jpg" },
-    { name: "Services", image: "grid5.jpg" },
-    { name: "Virtual Machines", image: "grid6.jpg" },
-    { name: "Billing", image: "grid7.jpg" }
+    { name: "Products", image: "Products.png" },
+    { name: "Services", image: "Services.png" },
+    { name: "Virtual Machines", image: "VirtualMachines.png" },
   ];
 
 products = [
