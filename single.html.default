@@ -124,17 +124,10 @@ $( document ).ready(function() {
                         <div class="float-qty-chart">
                         <ul>
                             <li>
-                                <h3>PRODUCTS</h3>
+                                <h3>PRODUCTOS</h3>
                                 <select class="form-control siz-chrt">
                                   <option>OCP SaaS</option>
                                   <option>OCP PaaS</option>
-                                </select>
-                            </li>
-                            <li>
-                                <h3>PROJECT</h3>
-                                <select class="form-control siz-chrt">
-                                  <option>Project 01</option>
-                                  <option>Project 02</option>
                                 </select>
                             </li>
                         </ul>

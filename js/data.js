@@ -3,21 +3,22 @@
 categoriesShowAdditionalList = [1,2,3];
 
 categories = [
-    { name: "Category1", image: "grid4.jpg" },
-    { name: "Category2", image: "grid5.jpg" },
-    { name: "Category3", image: "grid6.jpg" },
-    { name: "Category4", image: "grid7.jpg" }
+    { name: "Products", image: "grid4.jpg" },
+    { name: "Services", image: "grid5.jpg" },
+    { name: "Virtual Machines", image: "grid6.jpg" },
+    { name: "Billing", image: "grid7.jpg" }
   ];
 
 products = [
   // category
   [
     // product
-    { name: "Aliquam",
-      description: "Nullam leo tellus",
+    { name: "OpenShift as a Service",
+      description: "Red Hat OpenShift as a Service",
       details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ultricies lacinia augue, sed tincidunt lorem gravida vitae. Duis pretium lobortis augue, non mattis magna tincidunt in.",
       thumbnail: "grid4.jpg",
-      images: ["show.jpg", "show1.jpg", "show2.jpg", "show3.jpg" ],
+      //images: ["show.jpg", "show1.jpg", "show2.jpg", "show3.jpg" ],
+      images: ["openshift.png" ],
       downloads: []
     },
     // product
