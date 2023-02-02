@@ -102,6 +102,13 @@ products = [
       downloads: []
     },
     // product
+    { name: "Other Virtual Machines",
+      description: "Please select the operating system version",
+      details: "",
+      thumbnail: "vm-linux.png",
+      images: ["vm-linux.png"],
+      downloads: []
+    },
     { name: "Windows Virtual Machine",
       description: "Please select the operating system version",
       details: "",
@@ -110,11 +117,11 @@ products = [
       downloads: []
     },
     // product
-    { name: "Other Virtual Machines",
+    { name: "Android Machines",
       description: "Please select the operating system version",
       details: "",
-      thumbnail: "vm-linux.png",
-      images: ["vm-linux.png"],
+      thumbnail: "vm-android.png",
+      images: ["vm-android.png"],
       downloads: []
     },
     // product
